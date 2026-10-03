@@ -1,2 +1,0 @@
-# escritiva
-Escritiva | Renda Digital
