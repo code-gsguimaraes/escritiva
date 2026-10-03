@@ -1,0 +1,2 @@
+# Substitua esta linha pelo registro fornecido pelo Google AdSense após a criação/configuração da conta.
+# Exemplo: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
